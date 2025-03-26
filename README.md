@@ -23,4 +23,4 @@ We use [Robust ImageNet Models](https://huggingface.co/madrylab/robust-imagenet-
 
 ## Documentation
 
-For more detailed information, please refer to the [documentation](docs/DOCUMENTATION.md).
+For more detailed information on creating your own scenes, please refer to the [documentation](docs/DOCUMENTATION.md).
